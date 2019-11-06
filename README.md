@@ -1,7 +1,7 @@
 # Displaying Has Many Through Rails Lab
 
 ## Objectives
-
+=
 1. Construct a bi-directional has many through.
 2. Query for associations via the belongs_to, has_many, and has_many through associations.
 3. Iterate over associations in a view and display associated data for a primary instance.
